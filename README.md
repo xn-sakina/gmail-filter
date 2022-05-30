@@ -4,7 +4,7 @@ Gmail filter generator for Easy to view emails categories.
 
 ### Preview
 
-<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220531051617.png' width='70%' />
+![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220531051617.png)
 
 ### Usage
 
