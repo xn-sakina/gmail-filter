@@ -1,0 +1,9 @@
+weekly:
+from:{deno.com peterc.org css-weekly.com cooperpress.com ui.dev}
+
+fe:
+from:{github.com githubstatus.com npmjs.com}
+
+normal:
+from:(-{deno.com peterc.org css-weekly.com cooperpress.com ui.dev github.com githubstatus.com npmjs.com})
+

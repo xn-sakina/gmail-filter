@@ -1,0 +1,8 @@
+{
+  "name": "gmail-filter",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node ./filter.js"
+  }
+}
