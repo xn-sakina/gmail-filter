@@ -4,14 +4,14 @@ Gmail filter generator for Easy to view emails categories.
 
 ### Preview
 
-![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220531051617.png)
+<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220531051617.png' width='85%' />
 
 ### Usage
 
 1. Update `filter.js` and build your own filter rules
 
    ```bash
-       pnpm build
+     pnpm build
    ```
 
 2. Create [multiple inboxes](https://support.google.com/mail/answer/9694882?hl=en).
