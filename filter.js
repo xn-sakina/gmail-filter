@@ -15,6 +15,7 @@ const weekly = [
   // node weekly
   `cooperpress.com`,
   `ui.dev`,
+  `thisweekinreact`
 ]
 
 const path = require('path')
